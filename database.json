@@ -1,5 +1,10 @@
 {
-  "workspace": {},
+  "workspace": {
+    "https://github.com/RBE300X-Lab/RBE3001Code03.git": [
+      "RBE300X-Lab/RBE3001Code03",
+      "1612538054323"
+    ]
+  },
   "studio-open-web": {},
   "katapult": {
     "gameControllerNames": [
